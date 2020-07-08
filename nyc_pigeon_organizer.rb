@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 def nyc_pigeon_organizer(data)
   # write your code here!
   #final_array is a variable set as an accumulator
@@ -16,4 +16,5 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
+
 end
